@@ -1,5 +1,7 @@
 # Resize Image from URL
 
+![Result Bro](https://raw.githubusercontent.com/Bahrul-Rozak/Resize-Image-From-URL/main/resize_image_from_url.png)
+
 This Python program allows users to resize an image from a URL without distorting its aspect ratio. It uses the PIL (Pillow) library to download and resize the image. Users can specify the URL of the image, as well as the target width and height for the resized image. The program then calculates the scaling factor to maintain the aspect ratio and resizes the image accordingly.
 
 ## Features
